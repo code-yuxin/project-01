@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.AppTop {
+  display: flex;
+  width: 100%;
+}
+
+h4 {
+  margin-left: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.biaoQian {
+  display: flex;
+  width: 140px;
+  font-size: 16px;
+}
+
+.AppOneIcons {
+  margin-left: 20px;
+  margin-top: 50px;
+  margin-right: 130px;
+}
+
+.iconWidth {
+  margin-left: 32px;
+}
+
+hr {
+  margin-top: 20px;
+  border: 8px solid #ebebeb;
+}
+
+.itemClass {
+  display: flex;
+  width: 100%;
+  border: 1px solid #ebebeb;
+  height: 40px;
+}
+
+.itemClassTwo {
+  display: flex;
+  margin: 0px 120px;
+}
+
+.imges {
+  position: relative;
+  padding-top: 10px;
+  top: -30px;
+  text-align: center;
+  height: 20px;
+  background: #000;
+  opacity: 0.7;
+  color: #fff;
+  font-size: 10px;
+  width: 100px;
+  cursor: pointer
+}
+
+.positions {
+  position: relative;
+  top: -30px;
+}
+
+.lefts {
+  left: 15px;
+  font-size: 12px;
+}
+
+.reds:hover {
+  color: red;
+}
+
+.tops {
+  position: relative;
+  top: -15px;
+  font-size: 12px;
+}
+
+.topTab {
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+  background-color: #fff;
+}
+
+.tabs {
+  justify-content: center;
+  display: flex;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  background-color: #fff;
+}
+
+.topTabs {
+  margin-bottom: 60px;
+}
+
+.img {
+  height: 25px;
+}
+
+.sou {
+  margin-top: 5px;
+}
